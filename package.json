@@ -1,0 +1,24 @@
+{
+  "name": "libcard",
+  "version": "1.0.0",
+  "description": "Biblioteca para validar números de cartões de crédito.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenAlmeida/LibCard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenAlmeida/LibCard/issues"
+  },
+  "homepage": "https://github.com/ElenAlmeida/LibCard#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
+  }
+}
