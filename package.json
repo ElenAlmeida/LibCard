@@ -1,8 +1,8 @@
 {
-  "name": "libcard",
+  "name": "validatecardln",
   "version": "1.0.0",
   "description": "Biblioteca para validar números de cartões de crédito.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "nyc mocha"
   },
